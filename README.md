@@ -20,7 +20,7 @@ Crear en GitHub > Settings > Secrets and variables > Actions:
 ## Prueba local
 
 ```bash
-cd /home/jmg241/telegram-newsletter
+cd ~/telegram-newsletter
 python3 -m venv .venv
 . .venv/bin/activate
 pip install -r src/requirements.txt
